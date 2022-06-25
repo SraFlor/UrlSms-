@@ -16,7 +16,7 @@
 
   "CheckUser": "true",
 
-  "Udp":  "7300"[
+  "Udp": [
 
     {
 
