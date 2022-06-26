@@ -73,8 +73,8 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟣VIVO [DIRECT 1]",
-      "FLAG": "vivo",
+      "Nome": "🟣VIVO [PROXY 1]",
+      "BANDEIRA": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
@@ -83,8 +83,8 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🟣VIVO [DIRECT 2]",
-      "FLAG": "vivo",
+      "Nome": "🟣VIVO [PROXY 2]",
+      "BANDEIRA": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
