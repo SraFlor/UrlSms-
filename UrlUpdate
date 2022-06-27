@@ -1,6 +1,6 @@
 {
 
-  "Versão": "1.0.2",
+  "Versão": "1.0.3",
 
   "ReleaseNotes": "✅ATUALIZAÇÃO DISPONÍVEL✅",
 
@@ -28,7 +28,7 @@
 
       "FLAG": "br.png",
 
-      "ServerIP": "br1.famillynet.xyz",
+      "ServerIP": "br1.famillynet.store",
 
       "CheckUser": "http://45.140.192.62:5555/checkUser",
 
